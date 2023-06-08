@@ -160,6 +160,7 @@ button.navbar-toggler span{ color: #FFFFFF8C; font-size: 12px; font-weight: 700;
 }
 
 @media screen and (max-width:768px) {
+    #portfolio .close-icone{ width: 20px; height: 30px;}
     #about .about-box .about-img img{
         width: 156px !important;
         height: 156px;
@@ -206,6 +207,8 @@ button.navbar-toggler span{ color: #FFFFFF8C; font-size: 12px; font-weight: 700;
     .last-circle{
         width: 86px !important;
         height: 86px;
+        padding-top: 7px;
+        font-size: 10px;
     }
     #about .box::before{
         height: 95%;
