@@ -75,7 +75,7 @@ button.navbar-toggler span{ color: #FFFFFF8C; font-size: 12px; font-weight: 700;
 #about .about-box .about-img img{ width: 156px !important; height: 156px; border: 7px solid #e9ecef !important;}
 #about .box::before{ position: absolute; content: ""; top: 10%; width: 2px; height: 80%; left: 50%;
      background: #e9ecef;}
-.last-circle{ background: #FFC800; font-size: 18px; width: 156px; height: 156px; color: #ffff;
+.last-circle{ background: #FFC800; font-size: 18px; width: 135px; height: 156px; color: #ffff;
         font-weight: 600; z-index: 1; border: 7px solid #e9ecef !important; padding-top: 20px;}
 .box{ gap: 100px !important;}
 
