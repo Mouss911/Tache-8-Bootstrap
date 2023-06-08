@@ -135,6 +135,10 @@ button.navbar-toggler span{ color: #FFFFFF8C; font-size: 12px; font-weight: 700;
 }
 
 /*  SECTION ABOUT  */
+@media screen and (max-width:1180px) and (min-width:820px){
+    #about .box::before{ height: 90%;}
+}
+
 @media screen and (max-width:1200px) {
     #about .about-box .about-img img{
         width: 136px !important;
